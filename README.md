@@ -4,7 +4,9 @@ I'm Seir, and Seir is a Javascript geek.
 
 **Please help Ukraine gain its deserved freedom and peace, donate [here](https://war.ukraine.ua/).**
 
-## My projects 💻
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=seirdotexe)]()
+
+## Coding work 💻
 * [FormsAuthentication](https://github.com/seirdotexe/FormsAuthentication)
   * By random I came across 'ASPXAUTH'. It's a library to encrypt and decrypt ASPX cookies used for forms authentication.
 * [SAML2IO](https://github.com/seirdotexe/SAML2IO)
