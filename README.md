@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Seir, and Seir is a Javascript geek.
+I'm Seir, and I love Javascript.
 
 **Please help Ukraine gain its deserved freedom and peace, donate [here](https://war.ukraine.ua/).**
 
