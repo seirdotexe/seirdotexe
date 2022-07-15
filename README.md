@@ -15,8 +15,6 @@ I'm Seir, and I love Javascript.
   * I noticed a community needed help due to a broken deobfuscator, and that's where I created one with additional tools.
 * [GamedacJS](https://github.com/seirdotexe/GamedacJS)
   * Fixes for the Gamedac written in Node.js.
-* [Tools](https://github.com/seirdotexe/tools)
-  * A repository containing tools that I've written, all in Javascript.
 
 ## Markdown work 📝
 * [Steelseries Gamedac fixes](https://github.com/seirdotexe/Steelseries-Gamedac-fixes)
