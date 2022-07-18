@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Seir, and I love Javascript.
+I'm Seir, and I want the world to be made in Javascript.
 
 **Please help Ukraine gain its deserved freedom and peace, donate [here](https://war.ukraine.ua/).**
 
@@ -14,10 +14,12 @@ I'm Seir, and I love Javascript.
 * [Angry Birbs Deobfuscator](https://github.com/seirdotexe/Angry-Birbs-Deobfuscator)
   * I noticed a community needed help due to a broken deobfuscator, and that's where I created one with additional tools.
 * [GamedacJS](https://github.com/seirdotexe/GamedacJS)
-  * Fixes for the Gamedac written in Node.js.
+  * Fixes for the Steelseries Gamedac written in Node.js.
+
+Of course, I also have a few private projects in my library 😉
 
 ## Markdown work 📝
 * [Steelseries Gamedac fixes](https://github.com/seirdotexe/Steelseries-Gamedac-fixes)
-  * A guide on how to fix your Steelseries Gamedac.
+  * A guide on how to fix your Steelseries Gamedac. This got me a free [VAC](https://vac.muzychenko.net/en/index.htm) license, thanks **Eugene Muzychenko!**
 * [My Awesome List](https://github.com/seirdotexe/My-Awesome-List)
   * My awesome list containing everything that's just simply awesome!
