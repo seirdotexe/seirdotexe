@@ -7,11 +7,11 @@ I'm Seir, and I want the world to be made in Javascript.
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=seirdotexe)]()
 
 ## Coding work 💻
-* [FormsAuthentication](https://github.com/seirdotexe/FormsAuthentication)
+* [FormsAuthentication](https://github.com/seirdotexe/FormsAuthentication) **[Archived]**
   * By random I came across 'ASPXAUTH'. It's a library to encrypt and decrypt ASPX cookies used for forms authentication.
 * [SAML2IO](https://github.com/seirdotexe/SAML2IO)
   * I needed a simple yet efficient SAML2 encoder and decoder for a small project, so I wrote one.
-* [Angry Birbs Deobfuscator](https://github.com/seirdotexe/Angry-Birbs-Deobfuscator)
+* [Angry Birbs Deobfuscator](https://github.com/seirdotexe/Angry-Birbs-Deobfuscator) **[Archived]**
   * I noticed a community needed help due to a broken deobfuscator, and that's where I created one with additional tools.
 * [GamedacJS](https://github.com/seirdotexe/GamedacJS)
   * Fixes for the Steelseries Gamedac written in Node.js.
