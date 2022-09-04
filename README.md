@@ -14,12 +14,12 @@ I'm Seir, and I want the world to be made in Javascript.
   * I found out DragonFable is still a thing and created a simple proxy for it that's compatible for other Artix games.
 * [ChaCha20](https://github.com/seirdotexe/chacha20)
   * Every Javascript implementation of ChaCha20 I came across was either poorly written or outdated. I decide to bundle it up together into modern Javascript.
+* [GamedacJS](https://github.com/seirdotexe/GamedacJS)
+  * Fixes for the Steelseries Gamedac written in Node.js.
 * [Angry Birbs Deobfuscator](https://github.com/seirdotexe/Angry-Birbs-Deobfuscator) **[Archived]**
   * I noticed a community needed help due to a broken deobfuscator, and that's where I created one with additional tools.
 * [FormsAuthentication](https://github.com/seirdotexe/FormsAuthentication) **[Archived]**
   * By random I came across 'ASPXAUTH'. It's a library to encrypt and decrypt ASPX cookies used for forms authentication.
-* [GamedacJS](https://github.com/seirdotexe/GamedacJS)
-  * Fixes for the Steelseries Gamedac written in Node.js.
 
 Of course, I also have a few private projects in my library 😉
 
