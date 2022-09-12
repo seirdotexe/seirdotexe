@@ -3,7 +3,7 @@
 I'm Seir, and I want the world to be made in Javascript.
 
 **Please help Ukraine gain its deserved freedom and peace, donate [here](https://war.ukraine.ua/).**
-**Want to donate a shell with your own message to be sent towards Russian troups? Then donate [here](https://revengefor.com/).**
+**Want to donate a shell with your own message to be sent towards Russian troups? Then donate [here](https://signmyrocket.com/).**
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=seirdotexe)]()
 
