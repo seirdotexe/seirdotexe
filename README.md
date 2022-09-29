@@ -2,7 +2,7 @@
 
 I'm Seir, and I want the world to be made in Javascript.
 
-📧 seirdotexe@gmail.com
+📧 seirdotexe[at]gmail.com
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=seirdotexe)]()
 
