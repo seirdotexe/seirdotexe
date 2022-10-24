@@ -9,8 +9,6 @@ I'm Seir, and I want the world to be made in Javascript.
 ## Coding work 💻
 * [SAML2IO](https://github.com/seirdotexe/SAML2IO)
   * I needed a simple yet efficient SAML2 encoder and decoder for a small project, so I wrote one.
-* [ArtixProxy](https://github.com/seirdotexe/ArtixProxy)
-  * I found out DragonFable is still a thing and created a simple proxy for it that's compatible for other Artix games.
 * [ChaCha20](https://github.com/seirdotexe/chacha20)
   * Every Javascript implementation of ChaCha20 I came across was either poorly written or outdated. I decided to bundle it up together into modern Javascript.
 * [GamedacJS](https://github.com/seirdotexe/GamedacJS)
