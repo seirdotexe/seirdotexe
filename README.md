@@ -1,8 +1,7 @@
 ### Hi there 👋
+Nice to meet you! I'm Seir, a hobbyist Node.js developer with 5+ years of experience.
 
-I'm Seir, and I want the world to be made in Javascript.
-
-📧 seirdotexe[at]gmail.com
+📧 seirdotexe[at]gmail.com **only for freelance projects and inquiries**
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=seirdotexe)]()
 
