@@ -6,10 +6,8 @@ Nice to meet you! I'm Seir, a hobbyist Node.js developer with 5+ years of experi
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=seirdotexe)]()
 
 ## Future work 🔮
-* [Strapi](https://strapi.io/)
-  * I'd like to do something with Strapi in the future
-* [Tauri](https://tauri.app/)
-  * I'd like to make a simple app using Tauri
+* [Tauri](https://tauri.app/) with [Vite](https://vitejs.dev/) and [Preact](https://preactjs.com/)
+  * I'd like to make a simple lightweight app using Tauri
 
 ## Coding work 💻
 * [SAML2IO](https://github.com/seirdotexe/SAML2IO)
