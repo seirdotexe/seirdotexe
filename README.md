@@ -5,6 +5,10 @@ Nice to meet you! I'm Seir, a hobbyist Node.js developer with 5+ years of experi
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=seirdotexe)]()
 
+## Future work 🔮
+* [Strapi](https://strapi.io/)
+  * I'd like to do something with Strapi in the future!
+
 ## Coding work 💻
 * [SAML2IO](https://github.com/seirdotexe/SAML2IO)
   * I needed a simple yet efficient SAML2 encoder and decoder for a small project, so I wrote one.
