@@ -5,12 +5,6 @@ Nice to meet you! I'm Seir, a hobbyist Node.js developer with 5+ years of experi
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=seirdotexe)]()
 
-## Future work 🔮
-* [Tauri](https://tauri.app/) with [Vite](https://vitejs.dev/) and [Preact](https://preactjs.com/)
-  * I'd like to make a simple lightweight app using Tauri
-* [MongoDB](https://www.mongodb.com/)
-  * I'd like to move to the future and implement MongoDB into my projects
-
 ## Coding work 💻
 * [SAML2IO](https://github.com/seirdotexe/SAML2IO)
   * I needed a simple yet efficient SAML2 encoder and decoder for a small project, so I wrote one.
