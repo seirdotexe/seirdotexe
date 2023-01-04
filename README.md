@@ -9,6 +9,7 @@ Nice to meet you! I'm Seir, a hobbyist Node.js developer with 5+ years of experi
 
 ## Future work 🔮
 * A lightweight app using [Tauri](https://tauri.app/), [Vite](https://vitejs.dev/) and [Preact](https://preactjs.com/)
+* Perhaps open a new front and start on a simple PHP project with [Yii](https://yiiframework.com/)
 
 ## Coding work 💻
 * [SAML2IO](https://github.com/seirdotexe/SAML2IO)
