@@ -3,7 +3,9 @@ Nice to meet you! I'm Seir, a hobbyist Node.js developer with 5+ years of experi
 
 📧 seirdotexe[at]gmail.com **only for freelance projects and inquiries**
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=seirdotexe)]()
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=seirdotexe&count_private=true&show_icons=true&theme=radical)]()
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seirdotexe&hide=actionscript,html&layout=compact&theme=radical)]()
 
 ## Future work 🔮
 * A lightweight app using [Tauri](https://tauri.app/), [Vite](https://vitejs.dev/) and [Preact](https://preactjs.com/)
