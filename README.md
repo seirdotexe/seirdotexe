@@ -7,10 +7,6 @@ Nice to meet you! I'm Seir, a hobbyist Node.js developer with 5+ years of experi
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seirdotexe&hide=actionscript,html&layout=compact&theme=radical)]()
 
-## Future work 🔮
-* A lightweight app using [Tauri](https://tauri.app/), [Vite](https://vitejs.dev/) and [Preact](https://preactjs.com/)
-* Perhaps open a new front and start on a simple PHP project with [Yii](https://yiiframework.com/)
-
 ## Coding work 💻
 * [SAML2IO](https://github.com/seirdotexe/SAML2IO)
   * I needed a simple yet efficient SAML2 encoder and decoder for a small project, so I wrote one.
