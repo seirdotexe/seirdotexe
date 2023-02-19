@@ -1,28 +1,22 @@
 ### Hi there 👋
-Nice to meet you! I'm Seir, a hobbyist Node.js developer with 5+ years of experience.
 
-📧 seirdotexe[at]gmail.com **only for freelance projects and inquiries**
+Nice to meet you! My name is Seir, a hobbyist developer that's capable of creating frontend & backend applications.
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=seirdotexe&count_private=true&show_icons=true&theme=radical)]()
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seirdotexe&hide=actionscript,html&layout=compact&theme=radical)]()
+## Experience with 🗺️
 
-## Coding work 💻
-* [SAML2IO](https://github.com/seirdotexe/SAML2IO)
-  * I needed a simple yet efficient SAML2 encoder and decoder for a small project, so I wrote one.
-* [ChaCha20](https://github.com/seirdotexe/chacha20)
-  * Every Javascript implementation of ChaCha20 I came across was either poorly written or outdated. I decided to bundle it up together into modern Javascript.
-* [GamedacJS](https://github.com/seirdotexe/GamedacJS)
-  * Fixes for the Steelseries Gamedac written in Node.js.
-* [Angry Birbs Deobfuscator](https://github.com/seirdotexe/Angry-Birbs-Deobfuscator) **[Archived]**
-  * I noticed a community needed help due to a broken deobfuscator, and that's where I created one with additional tools.
-* [FormsAuthentication](https://github.com/seirdotexe/FormsAuthentication) **[Archived]**
-  * By random I came across 'ASPXAUTH'. It's a library to encrypt and decrypt ASPX cookies used for forms authentication.
+<code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/seirdotexe/seirdotexe/main/assets/javascript.png"></code>
+<code><img height="20" alt="typescript" src="https://raw.githubusercontent.com/seirdotexe/seirdotexe/main/assets/typescript.png"></code>
+<code><img height="20" alt="nodejs" src="https://raw.githubusercontent.com/seirdotexe/seirdotexe/main/assets/nodejs.png"></code>
+<code><img height="20" alt="react" src="https://raw.githubusercontent.com/seirdotexe/seirdotexe/main/assets/react.png"></code>
+<code><img height="20" alt="vite" src="https://raw.githubusercontent.com/seirdotexe/seirdotexe/main/assets/vite.png"></code>
+<code><img height="20" alt="nginx" src="https://raw.githubusercontent.com/seirdotexe/seirdotexe/main/assets/nginx.png"></code>
+<code><img height="20" alt="powershell" src="https://raw.githubusercontent.com/seirdotexe/seirdotexe/main/assets/powershell.png"></code>
+<code><img height="20" alt="windows" src="https://raw.githubusercontent.com/seirdotexe/seirdotexe/main/assets/windows.png"></code>
+<code><img height="20" alt="linux" src="https://raw.githubusercontent.com/seirdotexe/seirdotexe/main/assets/linux.png"></code>
+<code><img height="20" alt="sql" src="https://raw.githubusercontent.com/seirdotexe/seirdotexe/main/assets/sql.png"></code>
 
-Of course, I also have a few private projects in my library 😉
+## Contact 📧
 
-## Markdown work 📝
-* [Steelseries Gamedac fixes](https://github.com/seirdotexe/Steelseries-Gamedac-fixes)
-  * A guide on how to fix your Steelseries Gamedac. This got me a free [VAC](https://vac.muzychenko.net/en/index.htm) license, thanks **Eugene Muzychenko!**
-* [My Awesome List](https://github.com/seirdotexe/My-Awesome-List)
-  * My awesome list containing everything that's just simply awesome!
+For things like freelance projects and other inquiries, you can always contact me on [seirdotexe[at]gmail.com](mailto:seirdotexe@gmail.com).
