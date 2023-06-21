@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Nice to meet you! My name is Seir, a hobbyist developer that's capable of creating frontend & backend applications.
+Nice to meet you! My name is Seir, a Junior System Administrator, and hobbyist developer that's capable of creating (mainly) backend applications.
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=seirdotexe&count_private=true&show_icons=true&theme=radical)]()
 
