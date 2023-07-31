@@ -2,9 +2,7 @@
 
 Nice to meet you! My name is Seir, a Junior System Administrator, and hobbyist developer that's capable of creating (mainly) backend applications.
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=seirdotexe&show_icons=true&theme=dark#gh-dark-mode-only)]()
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=seirdotexe&show_icons=true&theme=default#gh-light-mode-only)]()
-
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=seirdotexe&show_icons=true&theme=dark)]()
 ## Experience with 🗺️
 
 <code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/seirdotexe/seirdotexe/main/assets/javascript.png"></code>
