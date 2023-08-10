@@ -21,9 +21,8 @@ Nice to meet you! My name is Seir, and I separate myself from the public by bein
 
 ## Want to learn 📝
 
+<code><img height="20" alt="ruby" src="https://raw.githubusercontent.com/seirdotexe/seirdotexe/main/assets/ruby.png"></code>
 <code><img height="20" alt="typescript" src="https://raw.githubusercontent.com/seirdotexe/seirdotexe/main/assets/typescript.png"></code>
-<code><img height="20" alt="react" src="https://raw.githubusercontent.com/seirdotexe/seirdotexe/main/assets/react.png"></code>
-<code><img height="20" alt="vite" src="https://raw.githubusercontent.com/seirdotexe/seirdotexe/main/assets/vite.png"></code>
 
 ## Contact 📧
 
