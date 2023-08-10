@@ -1,8 +1,14 @@
 ### Hi there 👋
 
-Nice to meet you! My name is Seir, a Junior System Administrator, and hobbyist developer that's capable of creating (mainly) backend applications.
+Nice to meet you! My name is Seir, and I separate myself from the public by being:
+
+- A fulltime Junior System Administrator
+- A fighter for Privacy & Piracy
+- A hobbyist backend JavaScript/Node.js developer
+- A (morally correct) supporter of 🇺🇦
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=seirdotexe&show_icons=true&theme=dark)]()
+
 ## Experience with 🗺️
 
 <code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/seirdotexe/seirdotexe/main/assets/javascript.png"></code>
