@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Nice to meet you! My name is Seir, a Junior System Administrator and hobbyist (backend) Node.js developer, that wants to automate everything!
+Nice to meet you! My name is Seir, a fulltime System Administrator and hobbyist backend Node.js developer that wants to automate everything!
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=seirdotexe&show_icons=true&theme=dark)]()
 
