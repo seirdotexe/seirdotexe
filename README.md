@@ -21,7 +21,7 @@ Nice to meet you! My name is Seir, a fulltime System Administrator and hobbyist 
 
 ## Want to achieve this year ✨
 
-- Release my project DynBuffer. A library to easily work with manipulating bytes. Made for people who write back-end networking code
+- Release my project DynBuffer. A library to easily manipulate bytes. Made for people who write back-end networking code
 - Further PoC my project Dynbuffer by recreating SmartFoxServer 2's serialize/deserialize function
 - Preserve an old browser based tech networking protocol
 
