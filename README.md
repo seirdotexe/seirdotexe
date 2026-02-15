@@ -2,7 +2,7 @@
 
 Nice to meet you! My name is Seir, a fulltime System Administrator and hobbyist backend Node.js developer that wants to automate everything!
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=seirdotexe&show_icons=true&theme=dark)]()
+[![GitHub stats](https://github-stats-extended.vercel.app/api?username=seirdotexe&show_icons=true&theme=dark)]()
 
 ## Experience with 🗺️
 
@@ -18,6 +18,12 @@ Nice to meet you! My name is Seir, a fulltime System Administrator and hobbyist 
 ## Want to learn 📝
 
 <code><img height="20" alt="typescript" src="https://raw.githubusercontent.com/seirdotexe/seirdotexe/main/assets/typescript.png"></code>
+
+## Want to achieve this year ✨
+
+- Release my project DynBuffer. A library to easily work with manipulating bytes. Made for people who write back-end networking code
+- Further PoC my project Dynbuffer by recreating SmartFoxServer 2's serialize/deserialize function
+- Preserve an old browser based tech networking protocol
 
 ## Contact 📧
 
