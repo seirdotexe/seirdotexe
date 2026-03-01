@@ -22,7 +22,6 @@ Nice to meet you! My name is Seir, a fulltime System Administrator and hobbyist 
 ## Want to achieve this year ✨
 
 - Further PoC my project Dynbuffer by preserving two old binary protocols
-- Preserve a classic browser game's networking structure and documentate the protocol 
 
 ## Contact 📧
 
